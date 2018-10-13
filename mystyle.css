@@ -1,0 +1,36 @@
+@import url(https://fonts.google.com/specimen/Lato?selection.family=Lato)
+body {
+	background-image: url("space.JPG");
+	background-repeat: repeat-x;
+}
+
+h1 {
+	color:navy;
+	margin-left: 20px;
+}
+p {
+	color:navy;
+	margin-left: 20px
+}
+div.capitals {
+	background-color: lightgrey;
+	color: white;
+	margin:20px 0 20px 0;
+	padding: 20px;
+	opacity: 0.5
+
+}
+#special{
+	background-color: red
+}
+.Favourite{
+	color:red 
+}
+p{
+	font-family: "Lato", Lato, serif;
+	font-style: oblique;
+	font-size: 30px;
+	font-weight: bold;
+	font-variant: small-caps;
+
+}
